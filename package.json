@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend basic setup",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"npm test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PPAKruNN/backend.git"
+  },
+  "keywords": [
+    "backend",
+    "docker",
+    "prisma",
+    "express",
+    "js",
+    "ts",
+    "jest"
+  ],
+  "author": "snjaypee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PPAKruNN/backend/issues"
+  },
+  "homepage": "https://github.com/PPAKruNN/backend#readme"
+}
