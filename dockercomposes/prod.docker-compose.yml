@@ -19,7 +19,7 @@ services:
     container_name: api-prod
     environment:
       NODE_ENV: production
-      DATABASE_URL: 'postgresql://postgres:postgres@backendpostgres:5432/'
+      DATABASE_URL: 'postgresql://postgres:postgres@backendpostgres:5432/prod'
       PORT: '3000'
     ports:
       - '3000:3000'
